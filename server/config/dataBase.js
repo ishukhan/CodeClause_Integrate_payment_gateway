@@ -5,4 +5,4 @@ export const ConnectDB = async () => {
     console.log(`MongoDb is Connected with ${connection.host}`)
 };
 
-//config mongoDB atlas
+//config mongoDB
